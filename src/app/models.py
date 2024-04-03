@@ -1,3 +1,4 @@
+# Определение класса DataInput
 from pydantic import BaseModel
 
 
